@@ -4,7 +4,7 @@
   "description": "A simple timetable organiser for uni",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "async": "^2.5.0",
