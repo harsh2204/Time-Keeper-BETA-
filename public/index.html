@@ -1,0 +1,54 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html ng-app="TimeKeeper">
+
+<head>
+  <!-- SCROLLS -->
+  <!-- load bootstrap and fontawesome via CDN -->
+  <!-- <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" /> -->
+  <link rel="stylesheet" href="//bootswatch.com/darkly/bootstrap.min.css" />
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" />
+  <base href="/">
+  <!-- SPELLS -->
+  <!-- load angular and angular route via CDN -->
+  <script src="http://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular-route.js"></script>
+  <script src="./js/script.js"></script>
+</head>
+
+<body ng-controller="homeCtrl" id="MainWrap">
+
+  <!-- HEADER AND NAVBAR -->
+  <!-- <header>
+    <nav class="navbar navbar-default" style="display:none;">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Angular Routing Example</a>
+        </div>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="#display"><i class="fa fa-bars"></i> Display</a></li>
+          <li><a href="#event"><i class="fa fa-plus"></i> Add</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header> -->
+  <!-- <script>
+  $(window).bind('hashchange', function() {
+  if(window.location.hash == "#/"){
+    $('.navbar').hide();
+  }else{
+    $('.navbar').fadeIn();
+  }
+});
+  </script> -->
+  <!-- MAIN CONTENT AND INJECTED VIEWS -->
+  <div id="main">
+    <!-- angular templating -->
+    <!-- this is where content will be injected -->
+    <div ng-view></div>
+  </div>
+
+</body>
+
+</html>

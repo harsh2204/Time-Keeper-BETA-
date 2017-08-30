@@ -1,0 +1,21 @@
+{
+  "name": "time-keeper",
+  "version": "1.0.0",
+  "description": "A simple timetable organiser for uni",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "google-spreadsheet": "^2.0.4",
+    "express": "^4.15.3" ,
+    "express-basic-auth": "^1.1.1",
+    "winston": "^1.0.1",
+    "express-rate-limit": "^2.9.0",
+    "body-parser": "^1.13.3",
+    "express-logger": "^0.0.3"
+  },
+  "author": "Harsh Gupta",
+  "license": "ISC"
+}

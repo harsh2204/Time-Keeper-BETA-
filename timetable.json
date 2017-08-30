@@ -1,0 +1,925 @@
+[{
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " MDCL 1305",
+    "professor": "Linda Davis ",
+    "day": "Monday",
+    "start_time": {
+        "hour": 9,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 10,
+        "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " MDCL 1305",
+    "professor": "Linda Davis",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 9,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 10,
+        "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " MDCL 1305",
+    "professor": "Linda Davis",
+    "day": "Tuesday",
+    "start_time": {
+        "hour": 10,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 24
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 8,
+        "day": 30
+    },
+    "where": " ABB 122",
+    "professor": "Linda Davis",
+    "day": "Friday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 15
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 9,
+        "day": 21
+    },
+    "where": " ABB 122",
+    "professor": "Staff ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 29
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 4
+    },
+    "where": " ABB 122",
+    "professor": "Staff ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 12
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 18
+    },
+    "where": " ABB 122",
+    "professor": "Staff ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 26
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 2
+    },
+    "where": " ABB 122",
+    "professor": "Staff ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "ECON",
+    "course_code_number": "1B03",
+    "course_number": "14767",
+    "course_name": "Intro:Microeconom.",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " MDCL 1305 Hannah",
+    "professor": "Holmes ",
+    "day": "Wednesday",
+    "start_time": {
+        "hour": 15,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11902",
+    "course_name": "Engin Computation",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Asghar",
+    "professor": "Bokhari ",
+    "day": "Wednesday",
+    "start_time": {
+        "hour": 10,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11905",
+    "course_name": "Engin Computation",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " JHE 233A",
+    "professor": "Staff ",
+    "day": "Monday",
+    "start_time": {
+        "hour": 11,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 14,
+        "minute": 20
+    },
+    "class_section": "L02",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11905",
+    "course_name": "Engin Computation",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " JHE 234",
+    "professor": "Staff ",
+    "day": "Monday",
+    "start_time": {
+        "hour": 11,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 14,
+        "minute": 20
+    },
+    "class_section": "L02",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11919",
+    "course_name": "Engin Computation",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " ETB 126",
+    "professor": "Staff ",
+    "day": "Wednesday",
+    "start_time": {
+        "hour": 8,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 10,
+        "minute": 20
+    },
+    "class_section": "T06",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11807",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " ETB 126",
+    "professor": "Staff ",
+    "day": "Tuesday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T08",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11750",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Elizabeth Hassan, Robert",
+    "professor": "Fleisig ",
+    "day": "Monday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 15,
+        "minute": 20
+    },
+    "class_section": "C03",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11750",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Elizabeth Hassan, Robert",
+    "professor": "Fleisig ",
+    "day": "Wednesday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 15,
+        "minute": 20
+    },
+    "class_section": "C03",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Christopher",
+    "professor": "Mclean ",
+    "day": "Tuesday",
+    "start_time": {
+        "hour": 11,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 12,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Christopher",
+    "professor": "Mclean ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 11,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 12,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007 Christopher",
+    "professor": "Mclean ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 11,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 12,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10194",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " LRW B1007",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 10,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 11,
+        "minute": 20
+    },
+    "class_section": "T02",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " HSC 1A1",
+    "professor": "Staff ",
+    "day": "Tuesday",
+    "start_time": {
+        "hour": 12,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 13,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " HSC 1A1",
+    "professor": "Staff ",
+    "day": "Wednesday",
+    "start_time": {
+        "hour": 12,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 13,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 6
+    },
+    "where": " HSC 1A1",
+    "professor": "Staff ",
+    "day": "Friday",
+    "start_time": {
+        "hour": 12,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 13,
+        "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 17
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 8,
+        "day": 23
+    },
+    "where": " BSB B220",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 17,
+        "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 1
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 9,
+        "day": 7
+    },
+    "where": " BSB B220",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 17,
+        "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 22
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 9,
+        "day": 28
+    },
+    "where": " BSB B220",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 17,
+        "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 5
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 11
+    },
+    "where": " BSB B220",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 17,
+        "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 19
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 25
+    },
+    "where": " BSB B220",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 17,
+        "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 8,
+        "day": 24
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 8,
+        "day": 30
+    },
+    "where": " GS 101",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 15
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 9,
+        "day": 21
+    },
+    "where": " GS 102",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 9,
+        "day": 29
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 4
+    },
+    "where": " GS 102",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 12
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 10,
+        "day": 18
+    },
+    "where": " GS 102",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+}, {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+        "year": 2017,
+        "month": 10,
+        "day": 26
+    },
+    "semester_end": {
+        "year": 2017,
+        "month": 11,
+        "day": 2
+    },
+    "where": " GS 102",
+    "professor": "Staff ",
+    "day": "Thursday",
+    "start_time": {
+        "hour": 14,
+        "minute": 30
+    },
+    "end_time": {
+        "hour": 16,
+        "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+}]

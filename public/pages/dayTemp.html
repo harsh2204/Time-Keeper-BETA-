@@ -1,0 +1,34 @@
+<!-- <p>{{day.day}}</p>
+<p>{{day.courses}}</p> -->
+<div class="panel panel-default">
+  <div class="panel-heading text-center jumbotron" style="">
+    <button onclick="goBack();" class="btn btn-default btn-back" style="float:left;"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+    <h1 style="margin-top:-5px; margin-bottom:0px;">{{day.day}}</h1>
+  </div>
+  <div class="panel-body">
+    <div class="container-fluid">
+      <div class="row">
+        <!-- ng-repeat days in week for all the wells-->
+        <div ng-repeat='course in day.courses track by $index' class="col-xs-3 col-md-3">
+          <div class="panel panel-default">
+            <div class="panel-heading text-center" style="padding:5px; background-image: none; background-color: {{course.color}}; color: white;"><h6 style="font-size:25px; font-weight: bold; margin-top:5px; margin-bottom:5px;">{{course.course}}</h6></div>
+            <div class="panel-body">
+              <div ng-repeat='(num,event) in course.events'>
+              <!-- <p>{{timetable.courses}}</p> -->
+              <div class="well" style="background-color:#464545;"><p style="background-color:{{event.color}};">{{event.type}} : <b>{{event.title}}</b></p>
+                <div class="container-fluid"><p>{{event.desc}}</p>
+              </div>
+              <br> <button class="btn btn-xs btn-rem" ng-click="" onclick="remEvent(this);" style="background-color:#c12222;" eventID={{num}}><i class="fa fa-minus fa-1" aria-hidden="true"></i></button>
+            </div>
+
+          </div>
+              </div>
+              <!-- <p>{{course.events}}</p> -->
+              <button class="btn btn-default btn-add" ng-click="" onclick="addEvent(this);" courseID= "{{$index}}"><i class="fa fa-plus fa-3" aria-hidden="true"></i></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

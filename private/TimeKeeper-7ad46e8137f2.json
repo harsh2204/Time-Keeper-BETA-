@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "timekeeper-2204",
+  "private_key_id": "7ad46e8137f2b252e733914d1175c18944b99255",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwdCOR0sDTA4/v\neSAXsQQdoBKvNuXV4NXb1whhiLc0EIFpa30fQEbDll89qsaXZbR3KgIdqyql99iB\nJTbzlI4JVnkjBmny7Q5UHJ1h+P4LXkdVOPwDBrOvE6abQnwBujFhLWxpjObkvw3F\nObdeeb8IDSPwb6ISIWzxB0EeAo8hhTBLh7vQ7CbUUXPo3/DeosAN/ID/fYlh8O0N\nppBQYQy/t133Y/byv4H4W0tBpXmIIS5UmE26U6MUKI1MnLrDoNF1DdZkwseXodMe\npY+x6Su+th+xodINXnrlR14Er9gQkXyLccn5t1suYycxDiC3HC5HwS/7+j03Qb7K\nbLmYMrcRAgMBAAECggEABe+mSa/WIlMumq8PvBRNr+R0dHYLld4mO6rYgpV7mlIK\n1H3T/ALozogmxJeT7kBy6YZdg1uAiAxWOYQDvP6Mp7ZDxYCf/FbqwjwjNEpQ25eM\nnUqZOc3WKifmVTdPnixCIIOLb+KYWu4te6rVJyW/3ji48owC3wrGVDZ7A5Qw9f7r\naDRZdeeWoq7CzP9KtqtmJfeMnWQxx38iu+vb8TR5QgwnpxZIb3lEwx7zCCm+yMhZ\nKEbwFj8SOoqVE/L2++eoHTLw9evF0m+O3+4g0AJykLGBgFdB98ElW/lg+1fM+4Ah\nSd5tkqgIHLVz6yk8y1PrxiA0haLzZUHjE72/xKEX8QKBgQDwVQK57l5XndJRaUIL\nWa9Vxk7NmrxF2J5KQdfMIqiQmOA6szyGgU0thz8SvcIoZIHFjfzfYfUad15P1GJc\nOkv+jt2HEBJa53bZ90ih2uV7j3mxHc4o9UF17iNpiuvJlkVy711LjKxCGDJSy97m\n/Ijss8aLpGrBPfdXbsDpVzmq+QKBgQC79QnSRzfaJ3FoBSo5PcKyqbaEDi+Uj6G9\nd2lqYwa4aXD20y8DU0M3+lw11N+i7/6+tr8mzFkFa7mmsX7pp6ZGXHjrhMp2tSy1\nOqMtoMJsj7e4pXIl2yt9xFeozWR1M+P3fwbUDKhQETgotYQ5sTQAscsidYVSF0Xl\nAaVPYe+a2QKBgQDcrDIkp0rZCIDlX9DUuzTTfZM+FqZpO82cQXj0Z55/pt+9Bna8\nyl0jQNwZSUPN8vt1ejqGolt8Qb7HbiwioyTESEoAijFQZtgqq3R1qZitK8CBcOyr\njwbcUh0R/A0kvGZocoEnrbM9vRn4DFpPnfHb5faYog+kAFHsZjWcDAtXgQKBgBIH\n5MROXrZH2GJBNJa/LQFUtJSgg8H9sWdqoCs7iraALv0Or1DjWOxy0Qu8+yM3YLnM\n8DN5oQSbG/k4x9MEaTgQwOzfFUkkAkD0ehjzdhNSCi7leDjXeKmc/0fLRFrV+oWQ\nowgOmsrri/ajyyZ5sGJsq+8HVR3V67eXW9Nssr6pAoGAceNYIRBs/ueLomiewtn4\nKol/AP8isLS//wQr10Yx2CkeZSo0a2VNlkGdJoF6CqJLU5f9xarpyLQEYk796LT9\nw6dtLDUxO0X0YSPKIHatIqPhxD+pFUo9Ua7JDTaQ68KlWOM00bsTo4TQUMSodCIM\nKQujj3kWM4TxXJrBnJRoN1s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-2204@timekeeper-2204.iam.gserviceaccount.com",
+  "client_id": "104832379960994241108",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-2204%40timekeeper-2204.iam.gserviceaccount.com"
+}

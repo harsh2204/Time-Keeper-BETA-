@@ -1,0 +1,741 @@
+[
+  {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "MDCL 1305",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Michael DeGroote Centre for Learning and Discovery",
+    "where_room_number": "1305",
+    "url": "https://www.google.ca/maps/place/Michael+DeGroote+Centre+for+Learning+and+Discovery+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Linda Davis",
+    "day": "Monday",
+    "start_time": {
+      "hour": 9,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 10,
+      "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "MDCL 1305",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Michael DeGroote Centre for Learning and Discovery",
+    "where_room_number": "1305",
+    "url": "https://www.google.ca/maps/place/Michael+DeGroote+Centre+for+Learning+and+Discovery+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Linda Davis",
+    "day": "Thursday",
+    "start_time": {
+      "hour": 9,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 10,
+      "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10473",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "MDCL 1305",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Michael DeGroote Centre for Learning and Discovery",
+    "where_room_number": "1305",
+    "url": "https://www.google.ca/maps/place/Michael+DeGroote+Centre+for+Learning+and+Discovery+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Linda Davis",
+    "day": "Tuesday",
+    "start_time": {
+      "hour": 10,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 11,
+      "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "CHEM",
+    "course_code_number": "1E03",
+    "course_number": "10498",
+    "course_name": "General Chemistry: Engineer I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 24
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 2
+    },
+    "where": "ABB 122",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "AN Bourns Science Building",
+    "where_room_number": "122",
+    "url": "https://www.google.ca/maps/place/AN+Bourns+Science+Building+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Linda Davis",
+    "day": "Friday",
+    "start_time": {
+      "hour": 8,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 11,
+      "minute": 0
+    },
+    "class_section": "L09",
+    "class_type": "Laboratory"
+  },
+  {
+    "course_code_faculty": "ECON",
+    "course_code_number": "1B03",
+    "course_number": "14767",
+    "course_name": "Intro:Microeconom",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "MDCL 1305",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Michael DeGroote Centre for Learning and Discovery",
+    "where_room_number": "1305",
+    "url": "https://www.google.ca/maps/place/Michael+DeGroote+Centre+for+Learning+and+Discovery+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Hannah Holmes",
+    "day": "Wednesday",
+    "start_time": {
+      "hour": 15,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 16,
+      "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11902",
+    "course_name": "Engin Computation",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Asghar Bokhari",
+    "day": "Wednesday",
+    "start_time": {
+      "hour": 10,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 11,
+      "minute": 20
+    },
+    "class_section": "C01",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11905",
+    "course_name": "Engin Computation",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "JHE 233A",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "John Hodgins Engineering Building",
+    "where_room_number": "233A",
+    "url": "https://www.google.ca/maps/place/John+Hodgins+Engineering+Building+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Monday",
+    "start_time": {
+      "hour": 11,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 14,
+      "minute": 20
+    },
+    "class_section": "L02",
+    "class_type": "Laboratory"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11905",
+    "course_name": "Engin Computation",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "JHE 234",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "John Hodgins Engineering Building",
+    "where_room_number": "234",
+    "url": "https://www.google.ca/maps/place/John+Hodgins+Engineering+Building+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Monday",
+    "start_time": {
+      "hour": 11,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 14,
+      "minute": 20
+    },
+    "class_section": "L02",
+    "class_type": "Laboratory"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1D04",
+    "course_number": "11919",
+    "course_name": "Engin Computation",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "ETB 126",
+    "address": "N/A",
+    "city": "N/A",
+    "province": "N/A",
+    "where_long_name": "ETB 126",
+    "where_room_number": "126",
+    "url": "https://www.google.ca/maps/place/ETB+126+N/A+N/A+N/A",
+    "professor": "Staff",
+    "day": "Wednesday",
+    "start_time": {
+      "hour": 8,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 10,
+      "minute": 20
+    },
+    "class_section": "T06",
+    "class_type": "Tutorial"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11807",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "ETB 126",
+    "address": "N/A",
+    "city": "N/A",
+    "province": "N/A",
+    "where_long_name": "ETB 126",
+    "where_room_number": "126",
+    "url": "https://www.google.ca/maps/place/ETB+126+N/A+N/A+N/A",
+    "professor": "Staff",
+    "day": "Tuesday",
+    "start_time": {
+      "hour": 14,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 16,
+      "minute": 20
+    },
+    "class_section": "T08",
+    "class_type": "Tutorial"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11750",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Elizabeth Hassan, Robert Fleisig",
+    "day": "Monday",
+    "start_time": {
+      "hour": 14,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 15,
+      "minute": 20
+    },
+    "class_section": "C03",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "ENGINEER",
+    "course_code_number": "1P03",
+    "course_number": "11750",
+    "course_name": "Intro-Prof Engin",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Elizabeth Hassan, Robert Fleisig",
+    "day": "Wednesday",
+    "start_time": {
+      "hour": 14,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 15,
+      "minute": 20
+    },
+    "class_section": "C03",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Christopher Mclean",
+    "day": "Tuesday",
+    "start_time": {
+      "hour": 11,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 12,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Christopher Mclean",
+    "day": "Thursday",
+    "start_time": {
+      "hour": 11,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 12,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10190",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Christopher Mclean",
+    "day": "Friday",
+    "start_time": {
+      "hour": 11,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 12,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "MATH",
+    "course_code_number": "1ZA3",
+    "course_number": "10194",
+    "course_name": "Engineering Mathematics I",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "LRW B1007",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "L.R. Wilson Hall",
+    "where_room_number": "B1007",
+    "url": "https://www.google.ca/maps/place/L.R.+Wilson+Hall++Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Thursday",
+    "start_time": {
+      "hour": 10,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 11,
+      "minute": 20
+    },
+    "class_section": "T02",
+    "class_type": "Tutorial"
+  },
+  {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "HSC 1A1",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Health Sciences Centre",
+    "where_room_number": "1A1",
+    "url": "https://www.google.ca/maps/place/Health+Sciences+Centre++Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Tuesday",
+    "start_time": {
+      "hour": 12,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 13,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "HSC 1A1",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Health Sciences Centre",
+    "where_room_number": "1A1",
+    "url": "https://www.google.ca/maps/place/Health+Sciences+Centre++Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Wednesday",
+    "start_time": {
+      "hour": 12,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 13,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10333",
+    "course_name": "Mechanics",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 5
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 6
+    },
+    "where": "HSC 1A1",
+    "address": "",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Health Sciences Centre",
+    "where_room_number": "1A1",
+    "url": "https://www.google.ca/maps/place/Health+Sciences+Centre++Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Friday",
+    "start_time": {
+      "hour": 12,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 13,
+      "minute": 20
+    },
+    "class_section": "C02",
+    "class_type": "Lecture"
+  },
+  {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10350",
+    "course_name": "Mechanics",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 17
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 10,
+      "day": 25
+    },
+    "alt_time":0,
+    "alternate": true,
+    "where": "BSB B220",
+    "address": "1280 Main St W",
+    "city": "Hamilton",
+    "province": "Ontario",
+    "where_long_name": "Burke Science Building",
+    "where_room_number": "B220",
+    "url": "https://www.google.ca/maps/place/Burke+Science+Building+1280+Main+St+W+Hamilton+Ontario",
+    "professor": "Staff",
+    "day": "Thursday",
+    "start_time": {
+      "hour": 14,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 17,
+      "minute": 20
+    },
+    "class_section": "L15",
+    "class_type": "Laboratory"
+  },
+  {
+    "course_code_faculty": "PHYSICS",
+    "course_code_number": "1D03",
+    "course_number": "10378",
+    "course_name": "Mechanics",
+    "semester_start": {
+      "year": 2017,
+      "month": 8,
+      "day": 24
+    },
+    "semester_end": {
+      "year": 2017,
+      "month": 11,
+      "day": 2
+    },
+    "alt_time": 1,
+    "alternate": true,
+    "where": "GS 101",
+    "address": "N/A",
+    "city": "N/A",
+    "province": "N/A",
+    "where_long_name": "GS 101",
+    "where_room_number": "101",
+    "url": "https://www.google.ca/maps/place/GS+101+N/A+N/A+N/A",
+    "professor": "Staff",
+    "day": "Thursday",
+    "start_time": {
+      "hour": 14,
+      "minute": 30
+    },
+    "end_time": {
+      "hour": 16,
+      "minute": 20
+    },
+    "class_section": "T15",
+    "class_type": "Tutorial"
+  }
+]

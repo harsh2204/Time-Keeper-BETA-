@@ -1,0 +1,137 @@
+Loaded doc: Timetable by harshgupta2204oois@gmail.com
+sheet 1: Week 1:4/9/2017 - 8/9/2017 50x20
+prepTimeTable: 0
+prepTimeTable: 1
+prepTimeTable: 2
+prepTimeTable: 3
+prepTimeTable: 4
+prepTimeTable: 5
+prepTimeTable: 6
+prepTimeTable: 7
+prepTimeTable: 8
+prepTimeTable: 9
+prepTimeTable: 10
+prepTimeTable: 11
+prepTimeTable: 12
+prepTimeTable: 13
+prepTimeTable: 14
+prepTimeTable: 15
+prepTimeTable: 16
+prepTimeTable: 17
+prepTimeTable: 18
+prepTimeTable: 19
+prepTimeTable: 20
+prepTimeTable: 21
+Tue Sep 05 2017 00:00:00 GMT-0400 (US Eastern Daylight Time) -:- Wed Dec 06 2017 00:00:00 GMT-0500 (US Eastern Standard Time)
+NEW: false
+Checking for empty 
+Current worksheet: Week 1:4/9/2017 - 8/9/2017
+EMPTY!!
+Inserting Times
+Sheet - 1 Name: Week 1:4/9/2017 - 8/9/2017
+{ row: 2,
+  col: 2,
+  content: '9:30 - 10:20 \n MDCL 1305',
+  alt: false,
+  alt_time: undefined }
+{ row: 2,
+  col: 5,
+  content: '9:30 - 10:20 \n MDCL 1305',
+  alt: false,
+  alt_time: undefined }
+{ row: 2,
+  col: 3,
+  content: '10:30 - 11:20 \n MDCL 1305',
+  alt: false,
+  alt_time: undefined }
+{ row: 3,
+  col: 6,
+  content: '8:30 - 11:0 \n ABB 122',
+  alt: false,
+  alt_time: undefined }
+{ row: 4,
+  col: 4,
+  content: '15:30 - 16:20 \n MDCL 1305',
+  alt: false,
+  alt_time: undefined }
+{ row: 5,
+  col: 4,
+  content: '10:30 - 11:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 6,
+  col: 2,
+  content: '11:30 - 14:20 \n JHE 233A',
+  alt: false,
+  alt_time: undefined }
+{ row: 6,
+  col: 2,
+  content: '11:30 - 14:20 \n JHE 234',
+  alt: false,
+  alt_time: undefined }
+{ row: 7,
+  col: 4,
+  content: '8:30 - 10:20 \n ETB 126',
+  alt: false,
+  alt_time: undefined }
+{ row: 8,
+  col: 3,
+  content: '14:30 - 16:20 \n ETB 126',
+  alt: false,
+  alt_time: undefined }
+{ row: 9,
+  col: 2,
+  content: '14:30 - 15:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 9,
+  col: 4,
+  content: '14:30 - 15:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 10,
+  col: 3,
+  content: '11:30 - 12:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 10,
+  col: 5,
+  content: '11:30 - 12:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 10,
+  col: 6,
+  content: '11:30 - 12:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 11,
+  col: 5,
+  content: '10:30 - 11:20 \n LRW B1007',
+  alt: false,
+  alt_time: undefined }
+{ row: 12,
+  col: 3,
+  content: '12:30 - 13:20 \n HSC 1A1',
+  alt: false,
+  alt_time: undefined }
+{ row: 12,
+  col: 4,
+  content: '12:30 - 13:20 \n HSC 1A1',
+  alt: false,
+  alt_time: undefined }
+{ row: 12,
+  col: 6,
+  content: '12:30 - 13:20 \n HSC 1A1',
+  alt: false,
+  alt_time: undefined }
+{ row: 13,
+  col: 5,
+  content: '14:30 - 17:20 \n BSB B220',
+  alt: true,
+  alt_time: 0 }
+{ row: 14,
+  col: 5,
+  content: '14:30 - 16:20 \n GS 101',
+  alt: true,
+  alt_time: 1 }
+undefined

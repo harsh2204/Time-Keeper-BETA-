@@ -1,0 +1,22 @@
+<!-- home.html -->
+    <div class="jumbotron text-center">
+      <img src=".\icons\favicon.png" alt="TimeKeeper">
+        <!-- <h1>TimeKeeper</h1> -->
+                <p>Please enter the password!</p>
+                <div class="col-sm-10">
+                  <input name = "login" ng-model = "$parent.password" class= "form-control" id="pass" type="password" placeholder="Password">
+    </div>
+    <script>
+    $(function() {
+      $("#pass").focus();
+    });
+    $('#pass').on("keypress", function(e) {
+        if (e.keyCode == 13) {
+          console.log("ENTER!");
+            angular.element($('.btnLogin')).click();
+            return false; // prevent the button click from happening
+        }
+});
+</script>
+    <button ng-click= "$parent.login()"class = "btn btn-default btnLogin">Login</button>
+    </div>

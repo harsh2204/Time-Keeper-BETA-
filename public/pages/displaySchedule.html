@@ -1,0 +1,46 @@
+<!-- <p>DISPLAY!!!</p> -->
+<!-- Have Panels with course headings and wells in the panel content -->
+<!-- For adding events we can have a button within the panel content that opens up a modal to add event (this has to be in a different html file) -->
+<!-- <a href="#" data-toggle="modal" data-target="#bannerformmodal">Load me</a> -->
+<div class="panel panel-default">
+  <div class="panel-heading text-center jumbotron" style="">
+    <button ng-click= "prevWeek()" class = "btn btn-default btn-prev" style="float:left;" disabled="true"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
+    <button ng-click= "nextWeek()" class = "btn btn-default btn-next" style="float:right;"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>
+    <h1 style="margin-top:-5px; margin-bottom:0px;">{{weekNum}}</h1>
+  </div>
+  <div class="panel-body">
+    <div class="container-fluid">
+    <div class="row">
+          <!-- ng-repeat days in week for all the wells-->
+          <div ng-repeat='(key, timetable) in timetable track by $index' class="col-xs-6 col-md-4">
+            <div class="panel panel-default">
+              <div class="panel-heading text-center" style="padding:5px;"><a day='{{$index+1}}'><h4 style="font-size:25px; font-weight: bold; margin-top:5px; margin-bottom:5px;">{{timetable.day}}</h4></a></div>
+              <div class="panel-body" day="{{timetable.day}}">
+                <!-- <p>{{timetable.courses}}</p> -->
+                <div ng-repeat= 'class in timetable.courses'>
+                    <div class="well" style="background-color: {{class.color}} !important; color:white ;">{{class.course}}</div >
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+    </div>
+  </div>
+</div>
+<script>
+function noClasses(){
+  for (var i = 0; i < $('a').length; i++) {
+    var link = '/'+window.location.hash+'/day/'+$($('a')[i]).attr('day');
+    $($('a')[i]).attr('href',link);
+    // window.location.hash = window.location.hash.split('/').splice(0,2).join('/')+'/'+{{$index+1}};
+  }
+  var a = $('.row').children();
+  for(var i = 0; i<a.length; i++){
+    var div = $($(a[i]).children().children()[1]);
+    if(div.children().length==0){
+      div.attr('style','text-align: center;');
+      div.append('<h1 class="noClasses" style= "color:red;">NO CLASSES!!</h1>')
+    }
+  }
+}
+</script>
