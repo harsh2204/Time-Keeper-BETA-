@@ -11,7 +11,10 @@ timeKeeper.config(['$routeProvider','$locationProvider',function($routeProvider,
       templateUrl: 'pages/home.html',
       controller: 'homeCtrl'
     })
-
+    .when('/preAuth', {
+      templateUrl: 'pages/pre.html',
+      controller: 'preCtrl'
+    })
     // route for the display page
     .when('/week/:weekId', {
       templateUrl: 'pages/displaySchedule.html',
@@ -219,6 +222,14 @@ timeKeeper.controller('dayCtrl',['$routeParams','$http', '$scope', function($rou
   }
 
 }]);
+
+timeKeeper.controller('preCtrl', ['$scope', function($scope) {
+  var first  = new Date("2017-9-4");
+  var curr = new Date();
+  var weeks = Math.round(Math.abs(first-curr)/ 604800000) + 1;
+  window.location.replace("/#/week/"+String(weeks));
+}]);
+
 
 var remEvent = function(eventID){
   var tags = ['as','ho','du','la','re'];
