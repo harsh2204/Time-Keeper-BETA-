@@ -18,7 +18,16 @@
               <div class="panel-body" day="{{timetable.day}}">
                 <!-- <p>{{timetable.courses}}</p> -->
                 <div ng-repeat= 'class in timetable.courses'>
-                    <div class="well" style="background-color: {{class.color}} !important; color:white ;">{{class.course}}</div >
+                    <div class="well" style="background-color: {{class.color}} !important; color:white ;">
+                      {{class.course}}
+                      <!-- <p>{{class.events}}</p> -->
+                      <div class="form-group">
+                      <div ng-repeat='event in class.events'>
+                        <!-- <p>{{event}}</p> -->
+                        <h6><span class="label label-default" style="background-color:{{event.color}}" data-toggle="tooltip" title="{{event.title}}">{{event.type}}</span></h6>
+                      </div>
+                    </div >
+                  </div>
                 </div>
               </div>
             </div>

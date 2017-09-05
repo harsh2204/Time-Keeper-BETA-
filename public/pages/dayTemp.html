@@ -1,15 +1,32 @@
-<!-- <p>{{day.day}}</p>
-<p>{{day.courses}}</p> -->
+<!-- <p>{{day.courses}}</p> -->
 <div class="panel panel-default">
   <div class="panel-heading text-center jumbotron" style="">
     <button onclick="goBack();" class="btn btn-default btn-back" style="float:left;"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>
-    <h1 style="margin-top:-5px; margin-bottom:0px;">{{day.day}}</h1>
+    <h1 style="margin-top:-5px; margin-bottom:0px;" id="titleDay">{{dayTitle}}</h1>
+      <script>
+      // setTimeout(function(){
+      //   if($('#titleDay').html()=="{}"){
+      //     var scope = angular.element(document.getElementById("titleDay")).scope();
+      //     console.log(scope);
+      //     var title = timetable.schedule[(parseInt(location.href.split('/').pop())-1)].day||" ";
+      //     $('#titleDay').html(title);
+      //   }
+      // },800);
+      // var scope = angular.element(document.getElementById("titleDay")).scope();
+      // var cnt = 0
+      // var tick = setInterval(function(){
+      //   if(cnt==4){clearInterval(tick)}
+      // console.log(scope);
+      // cnt++;
+      //   // console.log(scope.day);
+      // },1000);
+      </script>
   </div>
   <div class="panel-body">
     <div class="container-fluid">
       <div class="row">
         <!-- ng-repeat days in week for all the wells-->
-        <div ng-repeat='course in day.courses track by $index' class="col-xs-3 col-md-3">
+        <div ng-repeat='course in courses track by $index' class="col-xs-3 col-md-3">
           <div class="panel panel-default">
             <div class="panel-heading text-center" style="padding:5px; background-image: none; background-color: {{course.color}}; color: white;"><h6 style="font-size:25px; font-weight: bold; margin-top:5px; margin-bottom:5px;">{{course.course}}</h6></div>
             <div class="panel-body">
